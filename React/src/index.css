@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#banner h1 {
+    text-shadow: 2px 2px 2px #1d1d1d;
+}
+#banner p {
+    text-shadow: 1px 1px 1px #616161;
+}
