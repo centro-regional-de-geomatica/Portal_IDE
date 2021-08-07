@@ -5,7 +5,7 @@ import { BrowserRouter, Route, Redirect } from "react-router-dom";
 
 import "@fortawesome/fontawesome-free/css/all.min.css";
 
-import Home from "views/Home.js";
+import Home from "./views/Home.js";
 
 ReactDOM.render(
   <BrowserRouter>

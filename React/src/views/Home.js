@@ -1,8 +1,8 @@
 import React from "react";
 
-import Navbar from "components/Navbar.js";
-import Footer from "components/Footer.js";
-import ServiceCards from "components/ServiceCard";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+import ServiceCards from "../components/ServiceCard";
 
 const HomeModel = {
   bannerImage: "./img/frente-frvt-778-0.jpg"
@@ -10,7 +10,7 @@ const HomeModel = {
 
 export default function Home() {
   return (
-    <>
+    <div>
       <Navbar />
       <main className="bg-gray-300">
         <div className="relative pt-16 pb-32 flex content-center items-center justify-center"
@@ -65,6 +65,6 @@ export default function Home() {
         </section>
       </main>      
       <Footer />
-    </>
+    </div>
   );
 }

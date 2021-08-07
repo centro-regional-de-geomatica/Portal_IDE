@@ -1,5 +1,5 @@
 import React from "react";
-import { SocialNetworksFooter } from "./SocialNetworks";
+import { SocialNetworksFooter } from "./SocialNetworks.js";
 
 export default function Footer() {
   return (
