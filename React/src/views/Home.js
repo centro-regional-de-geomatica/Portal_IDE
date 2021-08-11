@@ -29,11 +29,11 @@ export default function Home() {
                 <div className="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                   <div id="banner" className="pr-12">
                     <h1 className="text-white text-opacity-80 font-semibold text-5xl">
-                      IDE de la Facultad Regional Venado Tuerto 
+                      IDE de la Facultad de Ciencia y Tecnología 
                     </h1>
                     <p className="mt-4 text-lg text-gray-300">
                       Este es el portal de la Infraestructura de datos espaciales de la
-                      Facultad Regional Venado Tuerto UTN
+                      Facultad de Ciencia y Tecnología FCYT
                     </p>
                   </div>
                 </div>
