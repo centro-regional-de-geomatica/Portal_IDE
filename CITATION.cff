@@ -1,14 +1,14 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "Si usa este software, por favor cítelo de la siguiente manera."
 authors:
 - family-names: "Tentor"
-  given-names: "Fernando"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  given-names: "Fernando R."
+  orcid: "https://orcid.org/my-orcid?orcid=0000-0002-1885-3365"
 - family-names: "Diaz"
-  given-names: "Santiago"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "Portal IDE"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
+  given-names: "Santiago "
+ - family-names: "Bernardi"
+  given-names: "Diego "
+title: "Portal IDE - React"
+version: 0.1
 date-released: 2021-08-18
 url: "https://github.com/centro-regional-de-geomatica/Portal_IDE"
