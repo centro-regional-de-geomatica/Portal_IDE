@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 import ServiceCards from "../components/ServiceCard";
 
 const HomeModel = {
-  bannerImage: "./img/frente-frvt-778-0.jpg"
+  bannerImage: "./img/sedeoroverde.jpg"
 }
 
 export default function Home() {
@@ -30,6 +30,7 @@ export default function Home() {
                   <div id="banner" className="pr-12">
                     <h1 className="text-white text-opacity-80 font-semibold text-5xl">
                       IDE de la Facultad de Ciencia y Tecnología 
+					                   UADER
                     </h1>
                     <p className="mt-4 text-lg text-gray-300">
                       Este es el portal de la Infraestructura de datos espaciales de la
